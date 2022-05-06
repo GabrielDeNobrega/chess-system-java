@@ -14,7 +14,7 @@
 </h1>
   
 <h3>
-  Repository created in order to store an exercise from an Udemy course I'm currently taking.
+  Repository created in order to store a project from an Udemy course I'm currently taking.
 </h3>
 
 <h1 align="center">
